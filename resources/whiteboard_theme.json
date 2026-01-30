@@ -1,0 +1,19 @@
+{
+    "colors": {
+        "background": "#FDFBF7",
+        "primary": "#5D4037",
+        "error": "#E53935",
+        "success": "#43A047",
+        "highlight": "#FBC02D",
+        "info": "#1E88E5"
+    },
+    "fonts": {
+        "chinese": "PingFang SC, Microsoft YaHei, sans-serif",
+        "english": "Georgia, serif",
+        "title": "PingFang SC-Semibold, sans-serif"
+    },
+    "animation": {
+        "marker_damping": 20,
+        "entrance_damping": 15
+    }
+}
